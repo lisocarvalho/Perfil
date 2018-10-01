@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1> O que é um Contrato? </h1>
-      <p> Um contrato pode ser definido como o acordo de vontades com a finaldade de adquirir, resguardar, modificar ou extinguir direitos,<br/> sendo um negócio jurídico de mútuo consenso.</p>
+      <p style="color:blue"> Um contrato pode ser definido como o acordo de vontades com a finaldade de adquirir, resguardar, modificar ou extinguir direitos,<br/> sendo um negócio jurídico de mútuo consenso.</p>
    <h2> Natureza Jurídica </h2>
       <p> O contrato é um negócio jurídico bilateral
    <h2> Princípios Fundamentais </h2>
@@ -28,6 +28,5 @@
         
       </ul>
     
-    
-  </body>
+    </body>
 </html>
