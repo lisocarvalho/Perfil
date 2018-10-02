@@ -5,18 +5,12 @@
       <ul>
     <title> contratos </title>
   </head>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-    box-sizing: border-box;
-}
-  <body>
-    <h1> O que é um Contrato? </h1>
+   <body>
+    <h1 style="background-color:DodgerBlue;"> O que é um Contrato? </h1>
       <p style="color:blue"> Um contrato pode ser definido como o acordo de vontades com a finaldade de adquirir, resguardar, modificar ou extinguir direitos,<br/> sendo um negócio jurídico de mútuo consenso.</p>
-   <h2> Natureza Jurídica </h2>
+   <h2 style="background-color:rgb(180, 180, 180)> Natureza Jurídica </h2>
       <p style="color:blue"> O contrato é um negócio jurídico bilateral
-   <h2> Princípios Fundamentais </h2>
+   <h2 style="background-color:rgb(180, 180, 180)> Princípios Fundamentais </h2>
      <ol id="principios contratuais">
         <li style="color:blue"> autonomia da vontade </li>
         <li style="color:blue"> função social do contrato </li>
@@ -27,7 +21,7 @@
       
     <a href="http://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm/">  Previsão legal </a>
       
-   <h2> Requisitos de Validade </h2>
+   <h2 style="background-color:rgb(180, 180, 180)> Requisitos de Validade </h2>
         <li style="color:blue"> de ordem geral: são aqueles comuns a todos os atos e negócios jurídicos, como a capacidade do agente, o objeto lícito, possível, <br/> determinado ou determinável, e a forma prescrita ou não defesa em lei (art. 104 CC) </li>
         <li style="color:blue"> de ordem especial são aqueles peculiares das relações contratuais que é o consentimento recíproco ou acordo de vontades. <br/> O consentimento deve ser livre e espontâneo, sob pena de ter a sua validade afetada pelos vícios ou defeitos do negócio jurídico: erro, dolo, coação, estado de perigo, lesão e fraude. </li>
         
