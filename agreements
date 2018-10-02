@@ -5,6 +5,12 @@
       <ul>
     <title> contratos </title>
   </head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
   <body>
     <h1> O que é um Contrato? </h1>
       <p style="color:blue"> Um contrato pode ser definido como o acordo de vontades com a finaldade de adquirir, resguardar, modificar ou extinguir direitos,<br/> sendo um negócio jurídico de mútuo consenso.</p>
